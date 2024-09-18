@@ -23,6 +23,23 @@ Halo! Aku Rafly. Aku seorang Junior Backend Dev dan harapanku kedepannya yakni u
 
 <br/>  
 
+<table><tr><td valign="top" width="50%">
+
+<div align="center">
+![yui-k-on](https://github.com/user-attachments/assets/5a7ac1f6-a78b-43c9-9f6a-7497dd719572)
+</div>  
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+
 
 ## Bahasa Program dan Framework
 <div align="center">  
