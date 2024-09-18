@@ -23,7 +23,7 @@ Halo! Aku Rafly. Aku seorang Junior Backend Dev dan harapanku kedepannya yakni u
 <table><tr><td valign="top" width="50%">
 
 <div align="center">
-<img src="[https://tenor.com/id/view/yui-k-on-yui-kon-soobin0__0-working-gif-26405106](https://tenor.com/bWXkY.gif)" align="center" style="width: 100" />
+<img src="https://tenor.com/id/view/yui-k-on-yui-kon-soobin0__0-working-gif-26405106" align="center" style="width: 100" />
 </div>  
 
 
