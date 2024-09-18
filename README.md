@@ -1,11 +1,11 @@
 ![yui-k-on](https://github.com/user-attachments/assets/62811356-6868-4528-94b2-83948a0ed78d)
-## Hai👋, Aku Rafly Aditya!  
+## 👋Hai, Aku Rafly Aditya!  
   
 
 Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untuk terus berproses dan berkembang mengikuti era teknologi yang semakin canggih ini, Saat ini umurku 17 Tahun, dan Aku merupakan seorang pelajar di tingkat menengah kejuruan.   
 
 
-## Sosial Media
+## 🎬 Sosial Media
 
 
 <a href="https://linkedin.com/in/rafly-aditya-ray-9ab557327" target="_blank">
@@ -26,8 +26,10 @@ Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untu
 
 
 
-## Bahasa Program dan Framework
-<div align="center">  
+## 📝 Bahasa Program dan Framework
+
+
+<div align="start">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>  
@@ -46,7 +48,7 @@ Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untu
 <br/>  
 
 
-## Github Stats  
+## 📈 Github Stats  
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=zefanulkariem&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
