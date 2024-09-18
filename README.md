@@ -30,8 +30,6 @@ Halo! Aku Rafly. Aku seorang Junior Backend Dev dan harapanku kedepannya yakni u
 </div>  
 
 
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
