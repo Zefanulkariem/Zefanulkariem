@@ -16,7 +16,7 @@ Halo! Aku Rafly. Aku seorang Junior Backend Dev dan harapanku kedepannya yakni u
 <a href="https://instagram.com/zefanimations_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://youtube.com/zefanimations_" target="_blank">
+<a href="https://youtube.com/@zefananimations" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
