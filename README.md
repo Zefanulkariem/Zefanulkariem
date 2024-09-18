@@ -2,12 +2,9 @@
 ## Hai👋, Aku Rafly Aditya!  
   
 
-Halo! Aku Rafly. Aku seorang Junior Backend Dev dan harapanku kedepannya yakni untuk terus berproses dan berkembang mengikuti zaman, Saat ini umurku 17 Tahun, dan Aku merupakan seorang pelajar di tingkat menengah kejuruan.   
+Halo! Aku Rafly. Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untuk terus berproses dan berkembang mengikuti era teknologi yang semakin canggih ini, Saat ini umurku 17 Tahun, dan Aku merupakan seorang pelajar di tingkat menengah kejuruan.   
   
 
-<a href="https://github.com/zefanulkariem" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/rafly-aditya-ray-9ab557327" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
