@@ -51,13 +51,13 @@ Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untu
 ## 📈 Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=zefanulkariem&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zefanulkariem&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
 
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefanulkariem&hide_border=true&layout=compact" align="left" style="width: 80%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefanulkariem&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 
 <br/>  
