@@ -1,4 +1,5 @@
-![yui-k-on](https://github.com/user-attachments/assets/62811356-6868-4528-94b2-83948a0ed78d)
+<img src="https://github.com/user-attachments/assets/62811356-6868-4528-94b2-83948a0ed78d" width="200" />
+
 ## 👋 Hai, Aku Rafly Aditya Ray!  
   
 
