@@ -52,6 +52,7 @@ Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untu
 
 <table><tr><td valign="top" width="50%">
 
+![](https://komarev.com/ghpvc/?username=zefanulkariem)
 <img src="https://github-readme-stats.vercel.app/api?username=zefanulkariem&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
 </td><td valign="bottom" width="40.5%">
@@ -60,15 +61,4 @@ Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untu
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+<br/>
