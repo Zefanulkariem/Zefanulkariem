@@ -3,7 +3,7 @@
 ## 👋 Hai, Aku Rafly Aditya Ray!  
   
 
-Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untuk terus berproses dan berkembang mengikuti era teknologi yang semakin canggih ini, dan Saat ini umurku 17 Tahun, serta Aku merupakan seorang pelajar di tingkat menengah kejuruan.   
+Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untuk terus berproses dan berkembang mengikuti era teknologi yang semakin canggih ini, dan Saat ini umurku 18 Tahun, serta Aku merupakan seorang pelajar di tingkat menengah kejuruan.   
 
 
 ## 🎬 Sosial Media
