@@ -22,6 +22,9 @@ Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untu
 <a href="https://youtube.com/@zefananimations" target="_blank">
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
 </a>
+<a href="https://linktr.ee/raflyadityaray" target="_blank">
+<img src="https://img.shields.io/badge/linktr.ee-%23FFF585.svg?&style=for-the-badge&logo=linktr.ee&logoColor=black" alt="linktr.ee" style="margin-bottom: 5px;" />
+</a>
   
 
 <br/>
