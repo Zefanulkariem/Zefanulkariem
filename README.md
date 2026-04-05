@@ -5,7 +5,7 @@
 
 Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untuk terus berproses dan berkembang mengikuti era teknologi yang semakin canggih ini, dan Saat ini umurku 18 Tahun, serta Aku merupakan seorang pelajar di tingkat menengah kejuruan.   
 
-<p align="center">
+<p align="start">
   <img src="https://github.com/user-attachments/assets/62811356-6868-4528-94b2-83948a0ed78d" width="200" />
 </p>
 
