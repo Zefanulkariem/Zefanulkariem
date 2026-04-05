@@ -50,18 +50,11 @@ Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untu
 
 
 ## 📈 Github Stats  
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://komarev.com/ghpvc/?username=zefanulkariem&color=blue&style=flat-square" alt="visitor count" />
-      <br/><br/>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zefanulkariem&show_icons=true&theme=tokyonight&hide_border=true" align="center" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zefanulkariem&layout=compact&theme=tokyonight&hide_border=true" align="center" style="width: 100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=zefanulkariem&color=blue&style=flat-square" alt="visitor count" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zefanulkariem&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zefanulkariem&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
 <br/>
