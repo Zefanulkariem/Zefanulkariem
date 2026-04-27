@@ -1,7 +1,7 @@
 ## 👋 Hai, Aku Rafly Aditya Ray!  
   
 
-Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untuk terus berproses dan berkembang mengikuti era teknologi yang semakin canggih ini. Saat ini umurku 19 Tahun, serta Aku merupakan seorang mahasiswa di tingkat S1 Rekayasa Perangkat Lunak, Telkom University.   
+Aku seorang Junior Backend Dev. Aku memiliki harapan untuk kedepannya yakni untuk terus berproses dan berkembang mengikuti era teknologi yang semakin canggih ini. Saat ini umurku 19 Tahun, serta Aku merupakan seorang mahasiswa tingkat S1 Rekayasa Perangkat Lunak di Telkom University.   
 
 <p align="start">
   <img src="https://github.com/user-attachments/assets/62811356-6868-4528-94b2-83948a0ed78d" width="200" />
